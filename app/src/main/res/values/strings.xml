@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EShopProject</string>
+    <string name="registration">Registration</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="add_item">Add Item</string>
+    <string name="storage">eshopproject-27ac6.appspot.com</string>
+    <string name="LogIn">Log In</string>
+</resources>
